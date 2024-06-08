@@ -1,0 +1,11 @@
+# List of the MERN Notes
+
+# Lesson 1 - Basic Fundamentals of MERN
+(M)ongoDB 
+(E)xpress.js
+(R)eact.js
+(N)ode.js
+
+# Lesson 2 - backend
+- npm init -y (Command to install the package.json)
+- npm install express (Command to install express.js)
