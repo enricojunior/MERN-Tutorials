@@ -9,3 +9,8 @@
 # Lesson 2 - backend
 - npm init -y (Command to install the package.json)
 - npm install express (Command to install express.js)
+
+- npm install -g nodemon (Command to install globally)
+- node server.js
+- nodemon server.js
+- npm run dev
