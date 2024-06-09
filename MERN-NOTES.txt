@@ -17,3 +17,6 @@
 - npm install dotenv (Command to download the dotenv js environment)
 
 # Lesson 3 - API endpoint
+
+# Lesson 4 - MongoDB & Mongoose
+- npm install mongoose (Command to download and install mongoose)
