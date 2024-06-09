@@ -20,3 +20,5 @@
 
 # Lesson 4 - MongoDB & Mongoose
 - npm install mongoose (Command to download and install mongoose)
+
+# Lesson 6 - Building Controllers
