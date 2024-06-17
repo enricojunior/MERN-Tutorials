@@ -28,3 +28,8 @@
 
 Command to create the front-end folder
 - npx create-react-app frontend
+ 
+Downloading the router-dom-package
+- npm install react-router-dom
+
+- npm start (to run the frontend)
