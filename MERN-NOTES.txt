@@ -21,4 +21,10 @@
 # Lesson 4 - MongoDB & Mongoose
 - npm install mongoose (Command to download and install mongoose)
 
-# Lesson 6 - Building Controllers
+# Lesson 6 & 7 - Building Controllers
+- How to integrate a method to delete, update, add, display specifed, and display the whole workouts
+
+# Lesson 8 - Moving on to the Front-End Development using React.js
+
+Command to create the front-end folder
+- npx create-react-app frontend
