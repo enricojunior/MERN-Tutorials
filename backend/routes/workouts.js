@@ -8,6 +8,7 @@ const {
 } = require('../controllers/workoutController')
 
 const router = express.Router()
+
 // Getting all workouts
 router.get('/', getWorkouts)
 
