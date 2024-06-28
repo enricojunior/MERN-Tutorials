@@ -16,6 +16,10 @@ const workoutSchema = new Schema({
     load: {
         type: Number,
         required: true
+    },
+    user_id: {
+        type: String,
+        required: true
     }
 }, {timestamps: true}) // When we try to create a new document, it automatically adds a created app property for us to 
                        // say when the document was created which is nice
